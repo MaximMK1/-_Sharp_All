@@ -1,0 +1,15 @@
+D:\GB\C#\Seminar3\bin\Debug\net7.0\Seminar3.exe
+D:\GB\C#\Seminar3\bin\Debug\net7.0\Seminar3.deps.json
+D:\GB\C#\Seminar3\bin\Debug\net7.0\Seminar3.runtimeconfig.json
+D:\GB\C#\Seminar3\bin\Debug\net7.0\Seminar3.dll
+D:\GB\C#\Seminar3\bin\Debug\net7.0\Seminar3.pdb
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.csproj.AssemblyReference.cache
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.AssemblyInfoInputs.cache
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.AssemblyInfo.cs
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.csproj.CoreCompileInputs.cache
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.dll
+D:\GB\C#\Seminar3\obj\Debug\net7.0\refint\Seminar3.dll
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.pdb
+D:\GB\C#\Seminar3\obj\Debug\net7.0\Seminar3.genruntimeconfig.cache
+D:\GB\C#\Seminar3\obj\Debug\net7.0\ref\Seminar3.dll

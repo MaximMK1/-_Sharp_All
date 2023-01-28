@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\bin\Debug\net7.0\Example_Intro_method _array.exe
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\bin\Debug\net7.0\Example_Intro_method _array.deps.json
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\bin\Debug\net7.0\Example_Intro_method _array.runtimeconfig.json
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\bin\Debug\net7.0\Example_Intro_method _array.dll
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\bin\Debug\net7.0\Example_Intro_method _array.pdb
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.AssemblyInfo.cs
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.dll
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\refint\Example_Intro_method _array.dll
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.pdb
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\Example_Intro_method _array.genruntimeconfig.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method _array\obj\Debug\net7.0\ref\Example_Intro_method _array.dll

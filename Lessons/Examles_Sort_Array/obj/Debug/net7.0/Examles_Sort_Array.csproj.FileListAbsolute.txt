@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.AssemblyInfo.cs
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\bin\Debug\net7.0\Examles_Sort_Array.exe
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\bin\Debug\net7.0\Examles_Sort_Array.deps.json
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\bin\Debug\net7.0\Examles_Sort_Array.runtimeconfig.json
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\bin\Debug\net7.0\Examles_Sort_Array.dll
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\bin\Debug\net7.0\Examles_Sort_Array.pdb
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.dll
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\refint\Examles_Sort_Array.dll
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.pdb
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\Examles_Sort_Array.genruntimeconfig.cache
+C:\GeekBrains\С#\Examples\Examles_Sort_Array\obj\Debug\net7.0\ref\Examles_Sort_Array.dll

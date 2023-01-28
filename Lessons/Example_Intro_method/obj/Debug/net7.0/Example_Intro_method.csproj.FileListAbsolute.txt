@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Examples\Example_Intro_method\bin\Debug\net7.0\Example_Intro_method.exe
+C:\GeekBrains\С#\Examples\Example_Intro_method\bin\Debug\net7.0\Example_Intro_method.deps.json
+C:\GeekBrains\С#\Examples\Example_Intro_method\bin\Debug\net7.0\Example_Intro_method.runtimeconfig.json
+C:\GeekBrains\С#\Examples\Example_Intro_method\bin\Debug\net7.0\Example_Intro_method.dll
+C:\GeekBrains\С#\Examples\Example_Intro_method\bin\Debug\net7.0\Example_Intro_method.pdb
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.AssemblyInfo.cs
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.dll
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\refint\Example_Intro_method.dll
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.pdb
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\Example_Intro_method.genruntimeconfig.cache
+C:\GeekBrains\С#\Examples\Example_Intro_method\obj\Debug\net7.0\ref\Example_Intro_method.dll

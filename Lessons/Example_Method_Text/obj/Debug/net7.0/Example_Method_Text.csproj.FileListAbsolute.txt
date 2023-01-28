@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.AssemblyInfo.cs
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Examples\Example_Method_Text\bin\Debug\net7.0\Example_Method_Text.exe
+C:\GeekBrains\С#\Examples\Example_Method_Text\bin\Debug\net7.0\Example_Method_Text.deps.json
+C:\GeekBrains\С#\Examples\Example_Method_Text\bin\Debug\net7.0\Example_Method_Text.runtimeconfig.json
+C:\GeekBrains\С#\Examples\Example_Method_Text\bin\Debug\net7.0\Example_Method_Text.dll
+C:\GeekBrains\С#\Examples\Example_Method_Text\bin\Debug\net7.0\Example_Method_Text.pdb
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.dll
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\refint\Example_Method_Text.dll
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.pdb
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\Example_Method_Text.genruntimeconfig.cache
+C:\GeekBrains\С#\Examples\Example_Method_Text\obj\Debug\net7.0\ref\Example_Method_Text.dll

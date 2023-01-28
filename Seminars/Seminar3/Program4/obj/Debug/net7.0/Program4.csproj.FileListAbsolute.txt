@@ -1,0 +1,15 @@
+D:\GB\C#\Seminar3\Program4\bin\Debug\net7.0\Program4.exe
+D:\GB\C#\Seminar3\Program4\bin\Debug\net7.0\Program4.deps.json
+D:\GB\C#\Seminar3\Program4\bin\Debug\net7.0\Program4.runtimeconfig.json
+D:\GB\C#\Seminar3\Program4\bin\Debug\net7.0\Program4.dll
+D:\GB\C#\Seminar3\Program4\bin\Debug\net7.0\Program4.pdb
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.csproj.AssemblyReference.cache
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.AssemblyInfoInputs.cache
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.AssemblyInfo.cs
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.csproj.CoreCompileInputs.cache
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.dll
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\refint\Program4.dll
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.pdb
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\Program4.genruntimeconfig.cache
+D:\GB\C#\Seminar3\Program4\obj\Debug\net7.0\ref\Program4.dll

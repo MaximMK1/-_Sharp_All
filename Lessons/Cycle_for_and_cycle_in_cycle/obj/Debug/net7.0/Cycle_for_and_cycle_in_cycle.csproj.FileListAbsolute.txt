@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\bin\Debug\net7.0\Cycle_for_and_cycle_in_cycle.exe
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\bin\Debug\net7.0\Cycle_for_and_cycle_in_cycle.deps.json
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\bin\Debug\net7.0\Cycle_for_and_cycle_in_cycle.runtimeconfig.json
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\bin\Debug\net7.0\Cycle_for_and_cycle_in_cycle.dll
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\bin\Debug\net7.0\Cycle_for_and_cycle_in_cycle.pdb
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.AssemblyInfo.cs
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.dll
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\refint\Cycle_for_and_cycle_in_cycle.dll
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.pdb
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\Cycle_for_and_cycle_in_cycle.genruntimeconfig.cache
+C:\GeekBrains\С#\Examples\Cycle_for_and_cycle_in_cycle\obj\Debug\net7.0\ref\Cycle_for_and_cycle_in_cycle.dll

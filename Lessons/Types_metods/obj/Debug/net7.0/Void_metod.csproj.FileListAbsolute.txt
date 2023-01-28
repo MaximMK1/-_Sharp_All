@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.AssemblyInfo.cs
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Examples\Types_metods\bin\Debug\net7.0\Void_metod.exe
+C:\GeekBrains\С#\Examples\Types_metods\bin\Debug\net7.0\Void_metod.deps.json
+C:\GeekBrains\С#\Examples\Types_metods\bin\Debug\net7.0\Void_metod.runtimeconfig.json
+C:\GeekBrains\С#\Examples\Types_metods\bin\Debug\net7.0\Void_metod.dll
+C:\GeekBrains\С#\Examples\Types_metods\bin\Debug\net7.0\Void_metod.pdb
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.dll
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\refint\Void_metod.dll
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.pdb
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\Void_metod.genruntimeconfig.cache
+C:\GeekBrains\С#\Examples\Types_metods\obj\Debug\net7.0\ref\Void_metod.dll

@@ -1,0 +1,15 @@
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.csproj.AssemblyReference.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.AssemblyInfoInputs.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.AssemblyInfo.cs
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.csproj.CoreCompileInputs.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\bin\Debug\net7.0\Task33.exe
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\bin\Debug\net7.0\Task33.deps.json
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\bin\Debug\net7.0\Task33.runtimeconfig.json
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\bin\Debug\net7.0\Task33.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\bin\Debug\net7.0\Task33.pdb
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\refint\Task33.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.pdb
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\Task33.genruntimeconfig.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar5\Task33\obj\Debug\net7.0\ref\Task33.dll

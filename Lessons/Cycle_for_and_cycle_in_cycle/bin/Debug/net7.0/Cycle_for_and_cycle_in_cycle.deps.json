@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cycle_for_and_cycle_in_cycle/1.0.0": {
+        "runtime": {
+          "Cycle_for_and_cycle_in_cycle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cycle_for_and_cycle_in_cycle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

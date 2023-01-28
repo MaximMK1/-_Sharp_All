@@ -1,0 +1,15 @@
+D:\GB\C#\Seminar3\Task18\bin\Debug\net7.0\Task18.exe
+D:\GB\C#\Seminar3\Task18\bin\Debug\net7.0\Task18.deps.json
+D:\GB\C#\Seminar3\Task18\bin\Debug\net7.0\Task18.runtimeconfig.json
+D:\GB\C#\Seminar3\Task18\bin\Debug\net7.0\Task18.dll
+D:\GB\C#\Seminar3\Task18\bin\Debug\net7.0\Task18.pdb
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.csproj.AssemblyReference.cache
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.AssemblyInfoInputs.cache
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.AssemblyInfo.cs
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.csproj.CoreCompileInputs.cache
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.dll
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\refint\Task18.dll
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.pdb
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\Task18.genruntimeconfig.cache
+D:\GB\C#\Seminar3\Task18\obj\Debug\net7.0\ref\Task18.dll

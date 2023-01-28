@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Seminars\Task1\bin\Debug\net7.0\Task1.exe
+C:\GeekBrains\С#\Seminars\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\GeekBrains\С#\Seminars\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\GeekBrains\С#\Seminars\Task1\bin\Debug\net7.0\Task1.dll
+C:\GeekBrains\С#\Seminars\Task1\bin\Debug\net7.0\Task1.pdb
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.dll
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.pdb
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\GeekBrains\С#\Seminars\Task1\obj\Debug\net7.0\ref\Task1.dll

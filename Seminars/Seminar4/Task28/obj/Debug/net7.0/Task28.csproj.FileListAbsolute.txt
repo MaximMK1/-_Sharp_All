@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\bin\Debug\net7.0\Task28.exe
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\bin\Debug\net7.0\Task28.deps.json
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\bin\Debug\net7.0\Task28.runtimeconfig.json
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\bin\Debug\net7.0\Task28.dll
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\bin\Debug\net7.0\Task28.pdb
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.AssemblyInfo.cs
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.dll
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\refint\Task28.dll
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.pdb
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\Task28.genruntimeconfig.cache
+C:\GeekBrains\С#\Seminars\Seminar4\Task28\obj\Debug\net7.0\ref\Task28.dll

@@ -1,0 +1,15 @@
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.csproj.AssemblyReference.cache
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.AssemblyInfoInputs.cache
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.AssemblyInfo.cs
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.csproj.CoreCompileInputs.cache
+D:\GB\C#\Seminar3\Task22\bin\Debug\net7.0\Task22.exe
+D:\GB\C#\Seminar3\Task22\bin\Debug\net7.0\Task22.deps.json
+D:\GB\C#\Seminar3\Task22\bin\Debug\net7.0\Task22.runtimeconfig.json
+D:\GB\C#\Seminar3\Task22\bin\Debug\net7.0\Task22.dll
+D:\GB\C#\Seminar3\Task22\bin\Debug\net7.0\Task22.pdb
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.dll
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\refint\Task22.dll
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.pdb
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\Task22.genruntimeconfig.cache
+D:\GB\C#\Seminar3\Task22\obj\Debug\net7.0\ref\Task22.dll
