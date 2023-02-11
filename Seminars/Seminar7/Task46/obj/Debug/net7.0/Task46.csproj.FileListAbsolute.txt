@@ -1,0 +1,15 @@
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\bin\Debug\net7.0\Task46.exe
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\bin\Debug\net7.0\Task46.deps.json
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\bin\Debug\net7.0\Task46.runtimeconfig.json
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\bin\Debug\net7.0\Task46.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\bin\Debug\net7.0\Task46.pdb
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.csproj.AssemblyReference.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.AssemblyInfoInputs.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.AssemblyInfo.cs
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.csproj.CoreCompileInputs.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\refint\Task46.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.pdb
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\Task46.genruntimeconfig.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task46\obj\Debug\net7.0\ref\Task46.dll

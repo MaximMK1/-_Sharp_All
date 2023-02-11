@@ -1,0 +1,15 @@
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.csproj.AssemblyReference.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.AssemblyInfoInputs.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.AssemblyInfo.cs
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.csproj.CoreCompileInputs.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\bin\Debug\net7.0\Task49.exe
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\bin\Debug\net7.0\Task49.deps.json
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\bin\Debug\net7.0\Task49.runtimeconfig.json
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\bin\Debug\net7.0\Task49.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\bin\Debug\net7.0\Task49.pdb
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\refint\Task49.dll
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.pdb
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\Task49.genruntimeconfig.cache
+D:\GB\C#\C_Sharp_All\Seminars\Seminar7\Task49\obj\Debug\net7.0\ref\Task49.dll

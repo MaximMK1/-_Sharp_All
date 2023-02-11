@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\С#\\Examples\\Example_Intro_method _array\\Example_Intro_method _array.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\С#\\-_Sharp_All\\Lessons\\Example_Intro_method _array\\Example_Intro_method _array.csproj",
       "projectName": "Example_Intro_method _array",
-      "projectPath": "C:\\GeekBrains\\С#\\Examples\\Example_Intro_method _array\\Example_Intro_method _array.csproj",
+      "projectPath": "C:\\GeekBrains\\С#\\-_Sharp_All\\Lessons\\Example_Intro_method _array\\Example_Intro_method _array.csproj",
       "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\С#\\Examples\\Example_Intro_method _array\\obj\\",
+      "outputPath": "C:\\GeekBrains\\С#\\-_Sharp_All\\Lessons\\Example_Intro_method _array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config"

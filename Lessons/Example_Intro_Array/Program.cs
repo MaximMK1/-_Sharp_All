@@ -10,6 +10,6 @@ int max (int arg1, int arg2, int arg3)
 
 int [] array = {11, 332, 23, 44, 56, 74, 32, 45, 53};
 
-int maxFinal = max (max (array[0], array[1], array[2]), max (array[3], array[4], array[5]), max (array[6], array[7], array[8])); // тут в качестве аргументов функции выступают сами функции
+int maxFinal = max (max (array[0], array[1], array[2]), max (array[3], array[4], array[5]), max (array[6], array[7], array[8])); 
 
 Console.WriteLine(maxFinal);

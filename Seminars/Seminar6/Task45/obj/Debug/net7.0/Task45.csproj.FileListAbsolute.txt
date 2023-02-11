@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.AssemblyInfo.cs
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\bin\Debug\net7.0\Task45.exe
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\bin\Debug\net7.0\Task45.deps.json
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\bin\Debug\net7.0\Task45.runtimeconfig.json
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\bin\Debug\net7.0\Task45.dll
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\bin\Debug\net7.0\Task45.pdb
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.dll
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\refint\Task45.dll
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.pdb
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\Task45.genruntimeconfig.cache
+C:\GeekBrains\С#\-_Sharp_All\Seminars\Seminar6\Task45\obj\Debug\net7.0\ref\Task45.dll
